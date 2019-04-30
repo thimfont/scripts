@@ -1,2 +1,2 @@
-# scripts
-Scripts .BAT para automtização de tarefas diárias
+# Scripts
+Scripts **.BAT** para automtização de tarefas diárias
